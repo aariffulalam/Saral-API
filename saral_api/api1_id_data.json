@@ -1,0 +1,12 @@
+{
+    "id": "1879",
+    "parent_exercise_id": null,
+    "name": "using-json",
+    "slug": "requests__using-json",
+    "sequence_num": 300,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[\"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"using-json_key1\\\\nusing-json_key2\\\\n\\\\n\\\\nusing-json_key3\\\\nusing-json_key4\\\\n\\\\n\\\\nusing-json_key5\\\\n    - `courses.json` file padh kar\\\\n    - aapko iss object ko ek json argument mei load karna hai\\\\n    - uss json object ko parse kar kar\\\\n    - aapko saare courses ki list print karni hai, jaise\\\\n\\\\n\\\\n    - 1. Introduction to Javascript\\\\n    - 2. Getting Started\\\\n    - 3. Implementing PickleDB - DB - Part I\\\\n    - ...\\\\n    - ...\\\\n    - n. Web Scraping 101\\\\n\\\\nusing-json_key6\\\\n\\\\n\\\\n    check karo ki agar (if) `courses.json` pehle se exist karti hai,\\\\n    toh aap dobara API call mat karo. isse aap debugging fast kar\\\\n    paoge. API call sirf tab karo, jab `courses.json` file exist nahi\\\\n    karti\\\\n\\\\nusing-json_key7\\\\n\\\"}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/requests/using-json.md"
+}
